@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+
+I'm Oscar, a student in Computer Science & Engineering at the faculty of engineering at Lunds University (LTH) in Sweden.
+
+
+You can find more information on my website [[korpi.se]], or you can reach out to me directly at contact@korpi.se.
 
 <!--
 **o-korpi/o-korpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
